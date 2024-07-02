@@ -1,5 +1,5 @@
 #! /bin/bash
-sudo apt update && sudo apt upgrade -y
+sudo su -
 clear
 echo "------------------------"
 echo "welcome to the installer"
