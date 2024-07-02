@@ -3,6 +3,7 @@ This is a very simple utility made in 10mins. Its desinghd to quickley view syst
 
 Install
 --------
+git clone https://naikthegamer100/naiks_system_utility_for_linux
 
 cd naiks_system_utility_for_linux
 
