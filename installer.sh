@@ -4,7 +4,7 @@ clear
 echo "------------------------"
 echo "welcome to the installer"
 echo "------------------------"
-echo "\nexit now to abor instilation (Ctrl C)"
+echo "\nexit now to abort instilation (Ctrl C)"
 echo "5"
 sleep 1
 echo "4"
