@@ -4,8 +4,14 @@ This is a very simple utility made in 10mins. Its desinghd to quickley view syst
 Install
 --------
 
-git clone https://github.com/naikthegamer100/naiks_system_utility_for_linux
+cd naiks_system_utility_for_linux
 
-chmod +x naiks_system_utility.sh
+chmod +x install.sh
 
+./installer.sh
+
+Running
+-------
+
+you can run this aplication now by runing
 ./naiks_system_utility.sh
