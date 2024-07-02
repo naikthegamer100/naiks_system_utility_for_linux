@@ -1,6 +1,4 @@
 #! /bin/bash
-sudo su -
-exit
 clear
 echo "------------------------"
 echo "welcome to the installer"
@@ -19,6 +17,7 @@ sleep 1
 echo "0"
 sleep 1
 sudo cp naiks_system_utility.sh /bin
+clear
 cd /
 cd /bin
 echo "installed"
