@@ -1,5 +1,6 @@
 #! /bin/bash
 sudo su -
+exit
 clear
 echo "------------------------"
 echo "welcome to the installer"
