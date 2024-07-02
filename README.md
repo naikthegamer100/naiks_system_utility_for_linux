@@ -1,7 +1,7 @@
 This is a very simple utility made in 10mins. Its desinghd to quickley view system infromation with small file size.
 
 
-install
+Install
 --------
 
 git clone https://github.com/naikthegamer100/naiks_system_utility_for_linux
