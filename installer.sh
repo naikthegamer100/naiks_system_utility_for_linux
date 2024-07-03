@@ -20,4 +20,5 @@ sudo cp naiks_system_utility.sh /bin
 clear
 cd /
 cd /bin
+sudo chmod +x naiks_system_utility.sh
 echo "installed"
